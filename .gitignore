@@ -1,4 +1,4 @@
 core
 ui
 redisdata
-.env
+.DS_Store
